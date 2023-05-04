@@ -12,27 +12,34 @@ Implemente algum teste unitário no PHP se encontrar alguma possibilidade
 
 ## Instalação do Projeto  backend
 executar no banco de dados o script 
-
- # database.sql 
+```
+  database.sql 
+```
 
 - entrar na pasta  backend rodar o comando 
-
-  * php composer install
-
+```
+   php composer install
+```
 - Para rodar o projeto execute o comando :  
-  # php artisan  serve
+```
+  php artisan  serve
+```
 
 - para exutar o job execute o seguinte comando:
+```
   php artisan import-data-b3
-
+```
 ## Frontend 
  instalar as depedencias :
  entra na pasta front-end esxecutar o seguinte comando:
+ ```
  npm install
+ ```
  - Rodar a aplicação:
   entrar na pasta front-end executar o comando:
-  
+ ``` 
   npm run server
+ ```
   - acessar o endereço
 http://localhost:8080/
 
