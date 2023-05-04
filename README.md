@@ -24,16 +24,14 @@ comando para estrair os dados do Site.
 
 -php artisan import-data-b3´ 
 
-##frontend 
+## Frontend 
  instalar as depedencias :
- entra na front-end esxecutar o seguinte comando.
+ entra na pasta front-end esxecutar o seguinte comando:
  npm install
- 
- 
-
-Comando para  executar o FrontEnd 
-entrar na pasta front-end 
-npm run server
-acessar o endereço
+ -Rodar a aplicação:
+  entrar na pasta front-end executar o comando:
+  
+  npm run server
+  acessar o endereço
 http://localhost:8080/
 
