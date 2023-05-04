@@ -11,9 +11,9 @@ Implemente algum teste unitário no PHP se encontrar alguma possibilidade
 
 
 ## Instalação do Projeto  backend
-executar o script 
+executar no banco de dados o script 
 
-database.sql 
+ # database.sql 
 
 - entrar na pasta  backend rodar o comando 
 
