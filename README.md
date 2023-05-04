@@ -15,14 +15,14 @@ executar o script
 
 database.sql 
 
--entrar na pasta  backend 
+- entrar na pasta  backend 
 
--php composer install
--php artisan  serve
-comando para estrair os dados do Site.
--entrar na pasta raiz do projeto via console e executar.
+- php composer install
+- php artisan  serve
+comando para exutar o job.
+- entrar na pasta raiz do projeto via console e executar.
 
--php artisan import-data-b3´ 
+- php artisan import-data-b3
 
 ## Frontend 
  instalar as depedencias :
