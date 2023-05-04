@@ -17,7 +17,7 @@ database.sql
 
 - entrar na pasta  backend rodar o comando 
 
-  # php composer install
+  -- php composer install
 
 - Para rodar o projeto execute o comando :  
   # php artisan  serve
