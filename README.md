@@ -15,7 +15,8 @@ entrar na pasta  backend
 php composer install
 php artisan  serve
 comando para estrair os dados do Site.
-php artisan import-data-b3  
+
+´php artisan import-data-b3´ 
 
 Comando para  executar o FrontEnd 
 
