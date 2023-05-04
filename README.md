@@ -33,6 +33,6 @@ executar no banco de dados o script
   entrar na pasta front-end executar o comando:
   
   npm run server
-  acessar o endereço
+  - acessar o endereço
 http://localhost:8080/
 
