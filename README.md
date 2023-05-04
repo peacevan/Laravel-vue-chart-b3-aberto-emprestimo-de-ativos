@@ -18,11 +18,12 @@ database.sql
 - entrar na pasta  backend 
 
 - php composer install
-- php artisan  serve
-comando para exutar o job.
-- entrar na pasta raiz do projeto via console e executar.
 
-- php artisan import-data-b3
+-Para rodar o projeto execute o comando :  
+  php artisan  serve
+
+-para exutar o job execute o seguinte comando:
+  php artisan import-data-b3
 
 ## Frontend 
  instalar as depedencias :
