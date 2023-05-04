@@ -10,18 +10,28 @@ Implemente algum teste unitário no PHP se encontrar alguma possibilidade
 
 
 
-#Instalação do Projeto 
-entrar na pasta  backend 
+## Instalação do Projeto  backend
+executar o script 
+database.sql 
+-entrar na pasta  backend 
 
 php composer install
 php artisan  serve
 comando para estrair os dados do Site.
+entrar na pasta raiz do projeto via console e executar.
 
 ´php artisan import-data-b3´ 
 
+- frontend 
+ instalar as depedencias :
+ entra na front-end esxecutar o seguinte comando.
+ npm install
+ 
+ 
+
 Comando para  executar o FrontEnd 
 entrar na pasta front-end 
-npm run start
+npm run server
+acessar o endereço
+http://localhost:8080/
 
-Entrar na pasta frontend e executar 
- npm run serve
