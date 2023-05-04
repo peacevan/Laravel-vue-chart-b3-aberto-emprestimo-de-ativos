@@ -19,17 +19,17 @@ database.sql
 
 - php composer install
 
--Para rodar o projeto execute o comando :  
+- Para rodar o projeto execute o comando :  
   php artisan  serve
 
--para exutar o job execute o seguinte comando:
+- para exutar o job execute o seguinte comando:
   php artisan import-data-b3
 
 ## Frontend 
  instalar as depedencias :
  entra na pasta front-end esxecutar o seguinte comando:
  npm install
- -Rodar a aplicação:
+ - Rodar a aplicação:
   entrar na pasta front-end executar o comando:
   
   npm run server
