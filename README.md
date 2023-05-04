@@ -15,12 +15,12 @@ executar o script
 
 database.sql 
 
-- entrar na pasta  backend 
+- entrar na pasta  backend rodar o comando 
 
-- php composer install
+  # php composer install
 
 - Para rodar o projeto execute o comando :  
-  php artisan  serve
+  # php artisan  serve
 
 - para exutar o job execute o seguinte comando:
   php artisan import-data-b3
