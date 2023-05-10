@@ -2,8 +2,7 @@
     <div>
       <h3>Posições em Aberto de Empréstimo de Ativos </h3>
       <bar-chart></bar-chart>
-     
-     
+          
     </div>
   </template>
 
@@ -14,12 +13,10 @@
   export default {
     components: { 
       BarChart,
-    
-      
+         
     }
 
  
-
     
   }
   
