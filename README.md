@@ -1,12 +1,10 @@
 
-# Laravel-vue-chart-b3-aberto-emprestimo-de-ativos
-Dados: arquivo de Posições em Aberto de Empréstimo de Ativos - https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/boletim-diario/dados-publicos-de-produtos-listados-e-de-balcao/
+Laravel-vue-chart-b3-aberto-lending-assets
+Data: Asset Lending Open Positions file - https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/boletim-diario/ public-data-of-listed-and-over-the-counter-products/
 
-
-- Dados: arquivo de Posições em Aberto de Empréstimo de Ativos - https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/boletim-diario/dados-publicos-de-produtos-listados-e-de-balcao/
-- Um comando Artisan para baixar dados  da B3 através de um Job (queue), e salvar os dados no banco de dados. Necessário salvar os valores de múltiplos dias.
-Implemente algum teste unitário no PHP se encontrar alguma possibilidade
-- Uma página para exibir os dados com pelo menos um gráfico relacionado usando Vue.js. Ideia: ter um Dropdown para escolher um ativo e ao selecioná-lo exibir um gráfico mostrando a evolução da quantidade de saldo do ativo e do preço médio.
+Data: Asset Lending Open Positions file - https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/boletim-diario/ public-data-of-listed-and-over-the-counter-products/
+An Artisan command to download data from B3 through a Job (queue), and save the data in the database. Need to save multi-day values. Implement some unit test in PHP if you find any possibilities
+A page to display the data with at least one related graph using Vue.js. Idea: having a Dropdown to choose an asset and, when selecting it, display a graph showing the evolution of the amount of balance of the asset and the average price.
 
 
 
